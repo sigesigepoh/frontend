@@ -1,4 +1,3 @@
-
 import{View,Text,Button}from 'react-native'
 import axios from"axios";
 
